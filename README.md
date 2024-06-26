@@ -76,7 +76,7 @@ for creating new column following DAX expression was written;
         
 Snap of new calculated column ,
 
-![Snap_1](https://user-images.githubusercontent.com/102996550/174089602-ab834a6b-62ce-4b62-8922-a1d241ec240e.jpg)
+![Sales_by_state](https://github.com/RitikshaModi/Test/assets/32456435/322c792f-195b-4481-a809-3386c51ca109)
 
         
 - Step 15 : New measure was created to find total count of customers.
